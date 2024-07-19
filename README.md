@@ -32,3 +32,4 @@ More information on the wt32_eth01 board:
 - <a href="https://github.com/egnor/wt32-eth01?tab=readme-ov-file#unofficial-guide-to-the-wt32-eth01" target="_blank">Unofficial guide to the WT32-ETH01</a>
 - <a href="https://aws.amazon.com/it/blogs/compute/building-an-aws-iot-core-device-using-aws-serverless-and-an-esp32/" target="_blank">esp32_aws example</a>
 - <a href="https://forum.arduino.cc/t/need-help-on-esp32-w5000-mqtt-with-ssl/1271983" target="_blank">using w5500 and EthernetESP32 library ( with esp32 platform 3 )</a>
+- <a href="https://forum.arduino.cc/t/need-help-on-esp32-w5000-mqtt-with-ssl/1271983" target="_blank">using w5500 and EthernetESP32 library ( with esp32 platform 3 )</a>
