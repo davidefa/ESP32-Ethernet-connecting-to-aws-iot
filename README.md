@@ -4,7 +4,7 @@ It is similar to the esp32_aws example ( which connects to the net via wifi )
 
 Prerequisites:
 - arduino ide
-- install library WebServer_WT32_ETH01
+- library WebServer_WT32_ETH01
 - ESP32 board WT32_ETH01
 
 In file secrets.h:
