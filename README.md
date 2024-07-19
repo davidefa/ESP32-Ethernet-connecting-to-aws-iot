@@ -24,6 +24,8 @@ To program WT32_ETH01 board ( which does not include an usb connection ) you nee
 - on wt32_ETH01 board connect a button between io0 ( pin 24 ) and gnd ( pin 23 )
 When esptool starts, keep pressed the button on io0, press breafly the button on en and then release the button on io0, programming should begin.
 
+![wt32-eth01_a](https://github.com/user-attachments/assets/fb0572c2-574e-49fb-8de9-6801417946cb)
+
 More information on the wt32_eth01 board:
 - <a href="https://github.com/egnor/wt32-eth01?tab=readme-ov-file#unofficial-guide-to-the-wt32-eth01">Unofficial guide to the WT32-ETH01</a>
 - <a href="https://aws.amazon.com/it/blogs/compute/building-an-aws-iot-core-device-using-aws-serverless-and-an-esp32/">esp32_aws example</a>
