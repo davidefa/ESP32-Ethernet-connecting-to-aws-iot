@@ -33,3 +33,4 @@ More information on the wt32_eth01 board:
 - <a href="https://aws.amazon.com/it/blogs/compute/building-an-aws-iot-core-device-using-aws-serverless-and-an-esp32/" target="_blank">esp32_aws example</a>
 - <a href="https://forum.arduino.cc/t/need-help-on-esp32-w5000-mqtt-with-ssl/1271983" target="_blank">using w5500 and EthernetESP32 library ( with esp32 platform 3 )</a>
 - <a href="https://github.com/Networking-for-Arduino/EthernetESP32" target="_blank">EthernetESP32 library</a>
+- <a href="https://docs.aws.amazon.com/iot/latest/developerguide/iot-quick-start-test-connection.html">Testing connectivity to your device endpoint</a>
