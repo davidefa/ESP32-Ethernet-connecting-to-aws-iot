@@ -26,4 +26,4 @@ When esptool starts, keep pressed the button on io0, press breafly the button on
 
 More information on the wt32_eth01 board:
 - <a href="https://github.com/egnor/wt32-eth01?tab=readme-ov-file#unofficial-guide-to-the-wt32-eth01">Unofficial guide to the WT32-ETH01</a>
-- <a href="https://forum.arduino.cc/t/esp32-ethernet-connecting-to-aws-iot/1283310?u=davidefa">esp32_aws example</a>
+- <a href="https://aws.amazon.com/it/blogs/compute/building-an-aws-iot-core-device-using-aws-serverless-and-an-esp32/">esp32_aws example</a>
