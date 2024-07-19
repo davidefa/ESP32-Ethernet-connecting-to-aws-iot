@@ -1,4 +1,7 @@
 # ESP32-Ethernet-connecting-to-aws-iot
+This is the MQTTClient_SSL example ( available installing library WebServer_WT32_ETH01 ) modified for connecting to aws iot core.
+It is similar to the esp32_aws example ( which connects to the net via wifi )
+
 Prerequisites:
 - arduino ide
 - install library WebServer_WT32_ETH01
@@ -19,4 +22,7 @@ To program WT32_ETH01 board ( which does not include an usb connection ) you nee
 - connect the usb-ttl +5V to the wt32_ETH01 +5V ( do not connect this if you power the board differently )
 - on wt32_ETH01 board connect a button between en ( pin 1 ) and gnd ( pin 2 )
 - on wt32_ETH01 board connect a button between io0 ( pin 24 ) and gnd ( pin 23 )
-When esptool starts, keep pressed the button on io0, press breafly the button on en and then release the button on io0, programming should begin
+When esptool starts, keep pressed the button on io0, press breafly the button on en and then release the button on io0, programming should begin.
+
+More information on the wt32_eth01 board:
+- <a href="https://github.com/egnor/wt32-eth01?tab=readme-ov-file#unofficial-guide-to-the-wt32-eth01">Unofficial guide to the WT32-ETH01</a>
